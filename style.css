@@ -16,6 +16,7 @@ header {
 header h1 {
     margin: 0 0 0.5rem;
     font-size: 2.5rem;
+    text-shadow: 4px 3px 0 #7A7A7A;
 }
 
 header p {
@@ -49,6 +50,7 @@ nav a {
 
 nav a:hover {
     background-color: #B294A0;
+    font-size: 1.1rem;
 }
 
 main {
@@ -93,10 +95,12 @@ main {
 .card-row a {
     color: #D9966E;
     font-weight: bold;
+
 }
 
 .card-row a:hover {
     color: #B294A0;
+    font-size: 1.1rem;
 }
 
 footer {
